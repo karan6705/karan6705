@@ -42,7 +42,6 @@ Welcome to my GitHub profile! I’m passionate about **full-stack development**,
   
 ## 💻 Featured Repositories
 
-## 💻 Featured Repositories
 
 1. [10-K Report Summarizer](https://github.com/karan6705/10-K-Report-Summarizer)  
    An AI-powered tool to parse and summarize key financial insights from SEC 10-K filings:  
