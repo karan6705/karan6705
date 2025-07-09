@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about **full-stack development**, *
 ## 🔗 About Me
 - 🎓 Bachelor of Science in **Computer Science** at **SJSU**, expected January 2027 (GPA 3.86)  
 - 💡 Skilled in building scalable web and cloud-based applications using modern frameworks and best practices  
-                                - 🤝 Active in campus life as a Community Desk Assistant and Peer Mentor, and as an IBM Z Student Ambassador
+                                                                                              - 🤝 Active in campus life as a Community Desk Assistant and Peer Mentor, and as an IBM Z Student Ambassador
 ---
 
 
