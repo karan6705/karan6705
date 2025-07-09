@@ -1,5 +1,5 @@
 # Hi, I'm Karan Raval! 👋  
-<img src="photo1.jpg" alt="Karan Raval" width="300" align="left" style="margin-right: 200px;">
+<img src="photo1.jpg" alt="Karan Raval" width="280" align="left" style="margin-right: 200px;">
 Welcome to my GitHub profile! I'm passionate about **full-stack development**, **cloud services**, and **innovative tech solutions**. From building end-to-end applications to contributing in student organizations, I strive to turn ideas into impactful products. Feel free to explore my repositories and connect with me! 💼 [LinkedIn](https://www.linkedin.com/in/karanraval05)
   
 ---
