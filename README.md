@@ -1,4 +1,6 @@
 <!-- ─── PROFILE PICTURE + INTRO ───────────────────────────────────────────────── -->
+# Hi, I’m Karan Raval! 👋
+
 <img
   src="photo1.jpg"
   alt="Karan Raval"
@@ -7,12 +9,12 @@
   style="margin-right:200px;"
 />
 
-# Hi, I’m Karan Raval! 👋
+
 
 Welcome to my GitHub profile! I’m passionate about **full-stack development**, **cloud services**, and **innovative tech solutions**. From building end-to-end applications to contributing in student organizations, I strive to turn ideas into impactful products. Feel free to explore my repositories and connect with me!
 
 <!-- ─── CONTACT BUTTONS ────────────────────────────────────────────────────────── -->
-<p align="center">
+<p align="left">
   <a href="mailto:karanraval3409@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-karanraval3409%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -29,7 +31,7 @@ Welcome to my GitHub profile! I’m passionate about **full-stack development**,
 
 ---
 
-## 🔗 About Me
+### 🔗 About Me
 
 - 🎓 Bachelor of Science in **Computer Science** at San Jose State University, expected January 2027 (GPA 3.86)  
 - 💡 Skilled in building scalable web and cloud-based applications using modern frameworks and best practices  
