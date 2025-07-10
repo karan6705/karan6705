@@ -4,7 +4,7 @@
 <img
   src="photo1.jpg"
   alt="Karan Raval"
-  width="170"
+  width="250"
   align="right"
   style="margin-right:200px;"
 />
