@@ -3,7 +3,7 @@
   src="photo1.jpg"
   alt="Karan Raval"
   width="170"
-  align="left"
+  align="right"
   style="margin-right:200px;"
 />
 
