@@ -41,6 +41,7 @@ Welcome to my GitHub profile! I’m passionate about **full-stack development**,
 
 # 💻 Tools & Languages :
 
+
 ### Languages:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
@@ -72,8 +73,10 @@ Welcome to my GitHub profile! I’m passionate about **full-stack development**,
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge\&logo=amazon-s3\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge\&logo=selenium\&logoColor=white)
+
 
 
 ---
