@@ -113,6 +113,6 @@ Welcome to my GitHub profile! I’m passionate about **full-stack development**,
 ## 📜 Certifications & Involvement
 
 - 🎖️ AWS Fundamentals | Full Stack Development (Udemy) | UI/UX with Figma (Udemy) | Cybersecurity Fundamentals (IBM)
-- 🎯 SiliconXhacks Hackathon participant | Software & Engineering Club contributor  
+- 🎯 Software & Engineering Club Event Planning Team Officer
 
 🔗 Let’s connect and build something great!
